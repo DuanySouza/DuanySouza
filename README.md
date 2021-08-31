@@ -1,7 +1,5 @@
 ### Hello! Eu sou a Duany Souza
 
-- 🌱 Estudante de Front-end
-
 <div style="display: inline_block">
   <a href="https://github.com/DuanySouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuanySouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
