@@ -1,6 +1,6 @@
 ### Hello! Eu sou a Duany Souza
 
-<div style="display: inline_block">
+<div width="100">
   <a href="https://github.com/DuanySouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuanySouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanySouza&layout=compact&langs_count=7&theme=tokyonight"/>
