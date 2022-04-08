@@ -14,6 +14,8 @@
   <img align="center" alt="Du-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Du-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Du-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
   <img align="right" alt="Du-me" height="100" width="100" src="https://media.giphy.com/media/GceNbAOA4Jhb88EqyZ/giphy.gif?cid=790b761112f0ec394b78f43071876ccd7d246dc4aa25e20f&rid=giphy.gif&ct=g">
 </div>
   
